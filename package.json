@@ -15,7 +15,7 @@
     "moment": "^2.20.1",
     "muse-ui": "^3.0.0-rc.2",
     "muse-ui-loading": "^0.2.0",
-    "vu e": "^2.5.21",
+    "vue": "^2.5.21",
     "vue-awesome-mui": "^1.7.3",
     "vue-cute-rate": "^1.0.2",
     "vue-rate": "^2.2.0",
